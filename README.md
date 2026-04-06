@@ -1,0 +1,1 @@
+Welcome to my scraper. Configure your webhook in the config.json. In the setting in the web interface in index.html, everything else can be easily configured without coding, and i'm pretty sure you can add the webhook. Good luck!
