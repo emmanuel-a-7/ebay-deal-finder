@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables — never commit these
+.env
+
+# Config with secrets (webhook URL, etc.) — use .env instead
+config.json
+
+# Runtime data
+data/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
